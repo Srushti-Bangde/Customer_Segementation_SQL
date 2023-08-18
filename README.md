@@ -1,3 +1,5 @@
+Link to the dataset CSV files: https://drive.google.com/drive/folders/1SndSnqjUHShGpAH9XAIwy8-YfYHJgeBE?usp=sharing
+
 I conducted a comprehensive analysis that spanned multiple aspects of customer engagement, sentiment assessment, and personalized recommendations within the domain of the provided datasets: geolocation, products, product name translations, customers, and general information. The multifaceted exploration yielded valuable insights and culminated in the development of an advanced product recommender system. Below, I outline the various stages of the analysis in greater detail:
 
 **1. Location Insights and Heatmap:**
